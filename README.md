@@ -1,27 +1,11 @@
-****## 💫 About Me:
-## 👋 Hi, I'm ISMAIL<br>💻 **Backend Developer | Django & REST APIs**  <br>Passionate about building scalable, secure, and real-world web applications using modern backend technologies.<br><br>- 🔭 Currently focused on **Django & Django REST Framework**<br>- 💡 Strong interest in **scalable backend systems & API architecture**<br>- 🛠️ Experienced in building **real-world applications (E-commerce, SaaS, CMS)**<br>- 📈 Continuously improving problem-solving & system design skills<br><br>## 🧠 Core Skills<br><br>⚙️ Backend Development<br>- Django & Django REST Framework (DRF)<br>- REST API Design & Development<br>- Authentication (Session, JWT)<br>- Middleware & Signals<br>- ORM Optimization & Query Performance<br><br>🗄️ Database Management<br>- PostgreSQL / MySQL<br>- SQLite (Development)<br>- Database Design & Optimization<br><br>🔧 Tools & Environment<br>- Git & GitHub (Version Control)<br>- VS Code / PyCharm<br>- Linux (CLI basics)<br><br>💼 Projects & Expertise<br>- 🛒 Scalable **E-commerce Systems**<br>- 💳 **SaaS Subscription & Payment Systems**<br>- 🔐 Authentication Systems (JWT, Role-based access)<br>- 📝 Blog & CMS Platforms<br>- 📦 Inventory & Product Management Systems<br>- ⚙️ Custom Admin Panels<br>- 🌐 RESTful API Development<br><br>---------------------------------------------------<br>🌐 Connect With Me<br>- 📧 Email: mdismail5845@gmail.com<br>- 🌍 Facebook: https://www.facebook.com/mismail5845<br>---------------------------------------------------<br>
+## 💫 About Me
 
-****
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mismail5845) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdismail5845@gmail.com) 
+👋 **Hi, I'm MD Ismail**  
+💻 Backend Developer | Django & REST APIs  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdismail5845&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdismail5845&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdismail5845&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Passionate about building scalable, secure, and real-world web applications using modern backend technologies.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdismail5845&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdismail5845&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mdismail5845&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 Currently focused on **Django & Django REST Framework**
+- 💡 Strong interest in **scalable backend systems & API architecture**
+- 🛠️ Experienced in building **real-world applications (E-commerce, SaaS, CMS)**
+- 📈 Continuously improving problem-solving & system design skills
